@@ -1,8 +1,10 @@
-telebot 
-pymongo
-flask
+telebot
+flask 
+requests
 aiogram
-pyTelegramBotAPI
 motor
-aiohttp 
-psutil
+aiohttp
+pyTelegramBotAPI
+pytz
+python-telegram-bot==20.1
+pymongo==4.5.0
