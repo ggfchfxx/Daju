@@ -1,0 +1,8 @@
+telebot 
+pymongo
+flask
+aiogram
+pyTelegramBotAPI
+motor
+aiohttp 
+psutil
